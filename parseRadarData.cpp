@@ -1,5 +1,5 @@
 /*Program that parse the Radar Data file
-  by Yiming Yuan (gwyuan@gwu.edu; henryontheway@gmail.com)
+  by Yiming Yuan (gwyuan@gwmail.gwu.edu; henryontheway@gmail.com)
 */
 #include <string>
 #include <sstream>
